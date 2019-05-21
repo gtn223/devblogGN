@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
+    website: 'https://gtn223.github.io/PortfolioGrantKing/',
     github: 'https://github.com/ryanfitzgerald',
     twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
